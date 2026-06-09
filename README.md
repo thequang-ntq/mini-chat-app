@@ -75,7 +75,8 @@
   - ACID
   - Transactions
 
-- Frontend:
+- Frontend (Flutter):
+  - Naming for project: snake_case
 
 - Backend:
 
